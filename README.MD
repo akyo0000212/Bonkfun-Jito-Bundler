@@ -61,10 +61,3 @@ Use higher values during congestion, or lower for savings.
 - Strategy modules for flexible launch styles
 - Telegram / Discord alerts
 
----
-
-### 👤 Author
-#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
-#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
-
----
